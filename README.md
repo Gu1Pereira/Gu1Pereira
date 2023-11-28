@@ -1,9 +1,10 @@
 # Guilherme Pereira Alves de Lima
 ## guilhermemap85@gmail.com - (19) 983722526
 ![foto](bmw-s1000rr-2024.jpg)
+- Um dia...
 > "Em algum lugar, algo incrível está esperando para ser descoberto." - Carls Sagan
 
-## objetivo: Dev Front-end
+## Objetivo: Dev Front-end
 
 ## Escolaridade
 - Técnico em informática, Senac Americana [2023 -2025 ]
